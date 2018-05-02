@@ -4,93 +4,428 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
+        "marker-color": "#00ff00",
         "marker-size": "medium",
-        "marker-symbol": "",
-        "Initials ": "QN",
-        "Descriptions": "The city of unique culture: voodoo, vampire and ghost. "
+        "marker-symbol": "marker-stroked",
+        "initials": "BT",
+        "Description": "Louisville - slavery and commercial promise of agricultural land attracted slave holders"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -90.1153564453125,
-          29.95969381418452
+          -85.902099609375,
+          38.26406296833961
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
+        "marker-color": "#00ff00",
         "marker-size": "medium",
-        "marker-symbol": "",
-        "Initials ": "QN",
-        "Descriptions": "The southernmost point of Florida. The place where Atlantic Ocean and Gulf of Mexico meet."
+        "marker-symbol": "marker-stroked",
+        "initials": "BT",
+        "description": "North Carolina and Virginia border- tobacco growing region and furniture manufacturing"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.76849365234375,
-          24.57210414801684
+          -79.4970703125,
+          36.63316209558658
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
+        "marker-color": "#00ff00",
         "marker-size": "medium",
-        "marker-symbol": "",
-        "Initials": "QN",
-        "Descriptions": "The city of country music. There is Broadway - entertainment district."
+        "marker-symbol": "marker-stroked",
+        "initials": "BT",
+        "description": "Atlanta is centrally located and therefore an important industrial center"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.912841796875,
-          36.146746777814364
+          -84.462890625,
+          33.75174787568194
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
+        "marker-color": "#00ff00",
         "marker-size": "medium",
-        "marker-symbol": "",
-        "Initials": "QN",
-        "Descriptions": "There are 150+ ethnicities and 60+ languages. There is an outside showcase for artist: Wynwood."
+        "marker-symbol": "marker-stroked",
+        "iniials": "BT",
+        "description": "Charlotte - regional banking thrived, Bank of America from Charlotte was one of largest financial institutions in the south. "
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.17822265625,
-          25.77516058680343
+          -80.771484375,
+          35.15584570226544
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ff0000",
+        "marker-color": "#00ff00",
         "marker-size": "medium",
-        "marker-symbol": "",
-        "Initials": "QN",
-        "Descriptions": "The heaven of BBQ. There are a lot of  musical histories here: Elvis Presley - King of Rock and Roll."
+        "marker-symbol": "marker-stroked",
+        "initials": "BT",
+        "description": "Agriculture- farmers grow rice north of gulf coast in Mississippi Alluvial valley"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -89.725341796875,
-          35.16482750605027
+          -89.033203125,
+          30.41078179084589
         ]
       }
-    }
-  ]
-}
-{
-  "type": "FeatureCollection",
-  "features": [
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Initials": "DM",
+        "Description": "Home/capital of southern country music"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.759033203125,
+          36.1733569352216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Initials": "DM",
+        "Description": "Home/capital of Jazz music"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1043701171875,
+          29.931134809868713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Initials": "DM",
+        "Description": "This river helped crops get carried to market ports easily, causing settlement to expand much more freely in the South"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.23556518554688,
+          32.16398792824025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Initials": "DM",
+        "Description": "Important iron production in 1870s which brought the rise of Chattanooga. Part of a huge industrial triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.30334472656249,
+          35.043489514314686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Initials": "DM",
+        "Description": "Like, Chattanooga, Birmingham is also part of the Industrial triangle. Huge iron and coal production in the 1870s"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.80572509765625,
+          33.516209361109034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Initials": "LD",
+        "Description": "Undergoing development and growth, a popular tourist attraction. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.74848175048828,
+          32.16253475515562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Initials": "LD",
+        "Description": "Citrus crops can be threatened by winter freezing."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.82617187499999,
+          28.533861572281154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Initials": "LD",
+        "Description": "Severely damaged by Hurricane Katrina in 2005."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.087890625,
+          29.950175057288813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Initials": "LD",
+        "Description": "Pittsburgh-plus pricing caused Atlanta firms to order steel from Pittsburgh because it was more cost effective even though it was further away. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.81533813476562,
+          33.52193393882357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Initials": "LD",
+        "Description": "A symbol of the South's urbanization. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.39010620117188,
+          33.75174787568194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e77827",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Initials": "TS",
+        "Description": "The first Africans arrived in Virginia in 1619, starting a horrific relationship between the colonizers and Africans."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.77520751953125,
+          37.209003532428646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e77827",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Initials": "TS",
+        "Description": "Natives were forced out of their homelands by Andrew Jackson in the infamous \"Trail of Tears.\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3150634765625,
+          35.97578349847199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e77827",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Initials": "TS",
+        "Desription": "1/3 of an important industrial triangle in the South (including Chattanooga and Atlanta), Birmingham manufactures could produce steel at much lower costs than the North's primary center of steel production, Pittsburgh."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.81396484375,
+          33.578014746143985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e77827",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Initials": "TS",
+        "Description": "Atlanta symbolizes the South's modern movement. It is a business, financial, and commercial center in the South. Coca-Cola and CNN originated in Atlanta."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.39697265625,
+          33.770015152780125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e77827",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Initials": "TS",
+        "Description": "When Hurricane Katrina hit in 2005, the hazards of the southern coastland's climate were highlighted, leaving thousands dead and millions ravaged."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.06591796875,
+          29.983486718474694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffd479",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Initials": "PJP",
+        "Description": " Home to the Cajun people, who are descendants of French Canadians in present-day Louisiana. They are a distinct cultural group that spoke Cajun French and were mainly established as farmers in the South. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.44857788085938,
+          31.312581657447687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffd479",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Initials": "PJP",
+        "Description": "Orange and grapefruit are the drive for agricultural economy in Florida. In addition to orange and grapefruits, sugar cane and rice are the leading agriculture"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.67349243164062,
+          27.766190642387496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffd479",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Initials": "PJP",
+        "Description": "The arrival of the first slaves prior to the Mayflower in 1619. During the first U.S. census, 39.1% of the Virginia’s population was black. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.300048828125,
+          36.74768773190056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffd479",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Initials": "PJP",
+        "Description": " A key point for immigration for Cubans following the Cuban revolution led by Fidel Castro. Much of the Cuban influence is demonstrated in Miami through music and art. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2166748046875,
+          25.77392392167507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffd479",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Initials": "PJP",
+        "Description": "New Orleans has its musical roots in Jazz. During Hurricane Katrina, the media focused much of the attention on the devastating impacts it had on the city. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.10848999023438,
+          29.956124387148986
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
@@ -178,286 +513,3 @@
     }
   ]
 }
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#e77827",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "Initials": "TS",
-        "Description": "The first Africans arrived in Virginia in 1619, starting a horrific relationship between the colonizers and Africans."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.77520751953125,
-          37.209003532428646
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#e77827",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "Initials": "TS",
-        "Description": "Natives were forced out of their homelands by Andrew Jackson in the infamous \"Trail of Tears.\""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.3150634765625,
-          35.97578349847199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#e77827",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "Initials": "TS",
-        "Desription": "1/3 of an important industrial triangle in the South (including Chattanooga and Atlanta), Birmingham manufactures could produce steel at much lower costs than the North's primary center of steel production, Pittsburgh."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -86.81396484375,
-          33.578014746143985
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#e77827",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "Initials": "TS",
-        "Description": "Atlanta symbolizes the South's modern movement. It is a business, financial, and commercial center in the South. Coca-Cola and CNN originated in Atlanta."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.39697265625,
-          33.770015152780125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#e77827",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "Initials": "TS",
-        "Description": "When Hurricane Katrina hit in 2005, the hazards of the southern coastland's climate were highlighted, leaving thousands dead and millions ravaged."
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.06591796875,
-          29.983486718474694
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#00ff00",
-        "marker-size": "medium",
-        "marker-symbol": "marker-stroked",
-        "initials": "BT",
-        "Description": "Louisville - slavery and commercial promise of agricultural land attracted slave holders"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.902099609375,
-          38.26406296833961
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#00ff00",
-        "marker-size": "medium",
-        "marker-symbol": "marker-stroked",
-        "initials": "BT",
-        "description": "North Carolina and Virginia border- tobacco growing region and furniture manufacturing"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.4970703125,
-          36.63316209558658
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#00ff00",
-        "marker-size": "medium",
-        "marker-symbol": "marker-stroked",
-        "initials": "BT",
-        "description": "Atlanta is centrally located and therefore an important industrial center"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.462890625,
-          33.75174787568194
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#00ff00",
-        "marker-size": "medium",
-        "marker-symbol": "marker-stroked",
-        "iniials": "BT",
-        "description": "Charlotte - regional banking thrived, Bank of America from Charlotte was one of largest financial institutions in the south. "
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.771484375,
-          35.15584570226544
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#00ff00",
-        "marker-size": "medium",
-        "marker-symbol": "marker-stroked",
-        "initials": "BT",
-        "description": "Agriculture- farmers grow rice north of gulf coast in Mississippi Alluvial valley"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -89.033203125,
-          30.41078179084589
-        ]
-      }
-    }
-  ]
-}
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ffd479",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "Initials": "PJP",
-        "Description": " Home to the Cajun people, who are descendants of French Canadians in present-day Louisiana. They are a distinct cultural group that spoke Cajun French and were mainly established as farmers in the South. "
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.44857788085938,
-          31.312581657447687
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ffd479",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "Initials": "PJP",
-        "Description": "Orange and grapefruit are the drive for agricultural economy in Florida. In addition to orange and grapefruits, sugar cane and rice are the leading agriculture"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.67349243164062,
-          27.766190642387496
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ffd479",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "Initials": "PJP",
-        "Description": "The arrival of the first slaves prior to the Mayflower in 1619. During the first U.S. census, 39.1% of the Virginia’s population was black. "
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.300048828125,
-          36.74768773190056
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ffd479",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "Initials": "PJP",
-        "Description": " A key point for immigration for Cubans following the Cuban revolution led by Fidel Castro. Much of the Cuban influence is demonstrated in Miami through music and art. "
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.2166748046875,
-          25.77392392167507
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#ffd479",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "Initials": "PJP",
-        "Description": "New Orleans has its musical roots in Jazz. During Hurricane Katrina, the media focused much of the attention on the devastating impacts it had on the city. "
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -90.10848999023438,
-          29.956124387148986
-        ]
-      }
-    }
-  ]
-}
-
-
-http://geojson.io/#id=gist:anonymous/526379e61c129d99b502f4444adecbb5&map=5/34.958/-89.912
-
-http://geojson.io/#id=gist:anonymous/46898880febff1702379b01a8c78019f&map=5/38.065/-84.727
-
-http://bl.ocks.org/anonymous/raw/fce4e5df6da4c748c8ed76b85304d7fc/
-
-http://geojson.io/#id=gist:anonymous/9b52f1be7540fcd70518b6abdcfbaeda&map=4/31.80/-92.64
-
-http://geojson.io/#id=gist:anonymous/3557c4d199968ff0cfd3e29ed597d433&map=5/31.653/-89.165
-
-http://geojson.io/#id=gist:anonymous/3345922707f77a82c188d02444464aa4&map=5/32.584/-89.780
