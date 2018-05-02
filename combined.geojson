@@ -1,0 +1,600 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "medium",
+        "marker-symbol": "marker-stroked",
+        "Initals": "BT",
+        "Description": "Appalachian highlands are part of the Bypassed East, "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.17213439941406,
+          41.28451448203389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "medium",
+        "marker-symbol": "marker-stroked",
+        "Initials": "BT",
+        "Description": "SW Nova Scotia, Annapolis Valley - oldest of region's agricultural areas. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.53482055664062,
+          44.728198689689506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "medium",
+        "marker-symbol": "marker-stroked",
+        "Initials": "BT",
+        "Description": "NE Maine and W New Brunswick - newest agricultural area of the Bypassed East"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -67.71217346191406,
+          46.81462873466413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "medium",
+        "marker-symbol": "marker-stroked",
+        "initials": "BT",
+        "descrition": "Poverty level population in the appalachia, high in coal production"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.72357177734375,
+          35.1154153142536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "medium",
+        "marker-symbol": "marker-stroked",
+        "initials": "BT",
+        "description": "Suface mining in Appalachia's central region - contour mining, area mining, and mountaintop removal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2001953125,
+          37.93986540897977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Initials": "DM",
+        "Description": "One of two major mountain areas in northern New England, Green Mountains being in Vermont and lower in elevation."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.91213989257812,
+          43.79092385423618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Initials": "DM",
+        "Description": "The White Mountains are the second of the two major mountain areas in northern New England, with the White Mountains being much more rugged and steep."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.78329467773438,
+          43.98491011404692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Initials": "DM",
+        "Description": "Blue Ridge Mountains, Severely eroded since plate collisions. Current elevations much lower than once before, which may have topped Mt. Everest's present 29,028ft above sea level."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.35420227050781,
+          35.681282860023565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Initials": "DM",
+        "Description": "The Great Valley, between Blue Ridge and Ridge and Valley sections of the Appalachians.  Typically more hilly than flat, and extending the entire length of the Appalachians. Also an important, historic route way."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.80159759521484,
+          37.41407304054796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Initials": "DM",
+        "Description": "More south, exhibit folded parallel ridges and valleys that are similar to the Appalachian's Ridge and Valley, grain is east to west rather than northeast to southwest like the Appalachians. Ozarks are separated from Ouachita's by Arkansas River Valley. I've wanted to visit this area since watching the new Netflix series \"Ozark\"!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7408447265625,
+          34.69646117272349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f5b64b",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Initials": "TS",
+        "Description": "Port Royal was the location of the first European settlement in Canada."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.5169677734375,
+          44.750634493861064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f5b64b",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Initials": "TS",
+        "Description": "The St.Lawrence River gives access to North America's interior, complementing the Megalopolis harbors."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.7601928710938,
+          46.95541798941581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f5b64b",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Initials": "TS",
+        "Description": "Commercial farming became important in the area of St. John-Aroostook Valley only in the late nineteenth century (this is fascinating to me) , soon becoming one of the leading potato-producing areas in both the US and Canada."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.7606811523438,
+          47.21327183495476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f5b64b",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Initials": "TS",
+        "Description": "Blairsville is the city I referred to in my Unit 3 project. The city is right along the Appalachians."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9616394042969,
+          34.87804506169047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f5b64b",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Initials": "TS",
+        "Description": "The Blue Ridge mountains is composed of ancient Precambrian rocks, and has been severely eroded since tectonic plate collisions in the Atlantic crumbled beginning nearly 460 million years ago."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6970825195313,
+          36.140092827322654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Initials ": "QN",
+        "Descriptions": "The largest city of Bypassed Area."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5943603515625,
+          44.64911632343077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Initials ": "QN",
+        "Descriptions": "First native people arrived to Montreal as early as 4,000 years ago."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.6029052734375,
+          45.506346901083425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Initials ": "QN",
+        "Descriptions": "There are a lot of low‐ lying valleys between steep hills here. They are the unique geography of Appalachia region."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.19259643554688,
+          37.251373933323144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Initials": "QN",
+        "Descriptions": "The center of Northlands region for grain, ore, and coal."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2803955078125,
+          48.42920055556841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Initials ": "QN",
+        "Descriptions": "A mining center of Northlands region."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.8817138671875,
+          54.77534585936447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "Initials ": "BT ",
+        "Description ": "I picked the state of Kentuky because it is part of the Appalachia and has the highest rural population desnsities in the US. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.341796875,
+          37.49229399862877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "Initials ": "BT",
+        "Description ": "I picked Pittsburg because appalachian coal and steel furnances fuled Pittsburgh's rise and making known as the Steel City. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0244140625,
+          40.44694705960048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "Initials ": "BT",
+        "Description ": "I picked the Tennessee  River because of the importance of the TVA and its influence on economic development."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.07366180419922,
+          35.296633426438966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "Initials ": "BT",
+        "Description": "I picked Coalwood West Virginia because the of the importance that coal plays into the economy and its development. I also picked it because it was part of my unit post for this section. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6583514213562,
+          37.39251043314648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7E7E7E",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "Initials ": "BT",
+        "Description": "I picked Charleston SC because of its importance in cotton production. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.903564453125,
+          32.8334428466495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Initials": "LD",
+        "Description": "This area was interesting to me because 50% of the province is used for agricultural purposes. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.24829101562501,
+          46.36967413462374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Initials": "LD",
+        "Description": "One of the few areas in Appalachia that has experienced economic growth. Their growth has been a result of country music concerts mainly. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.21968078613281,
+          36.64252876365686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Initials": "LD",
+        "Description": "Largest hydroelectric project in Canada. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.47900390625,
+          53.54030739150022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Initials": "LD",
+        "Description": "New Brunswick's land area is 85% forestry. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.70898437499999,
+          46.694667307773116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Initials": "LD",
+        "Description": "Because it is usually frost free, Saint John is important for fishing in Canada. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.33544921875,
+          45.236217535866025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#531b93",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Initials": "PJP",
+        "Description": "Halifax, Nova Scotia is the largest bypass city. The city is Canada's second leading Atlantic Ocean port. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57994079589844,
+          44.64471969276957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#531b93",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Initials": "PJP",
+        "Description": "Nunavut means \"Our Land\" in Inuktitut. The land is governed by the Native peoples and its residents are over 85% Inuit. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.5048828125,
+          65.04433268292496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#531b93",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Initials": "PJP",
+        "Description": "The Ozarks' Tri-State district is a major lead mining area. Missouri's production alone counts for three quarters of the country's lead production. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.56069946289062,
+          37.0041977375838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#531b93",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Intials": "PJP",
+        "Description": "The Arkansas River Navigation's originates here at the Tulsa Port of Catoosa. The navigation system is a governmental intervention that helped to increased barge traffic and the dams along the system supplied hydroelectric power. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.73972344398499,
+          36.2308514686104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#531b93",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Initials": "PJP",
+        "Description": "In addition to mining and logging, agriculture is important to this region. In Vermont, the agriculture is done in the form of dairy. The state has about 134,000 cows and leads the U.S. in the production of dairy. In 2014, it was reported that dairy helped bring in $1.32 billion "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.740478515625,
+          44.03824429423549
+        ]
+      }
+    }
+  ]
+}
